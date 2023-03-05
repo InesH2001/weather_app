@@ -1,0 +1,47 @@
+{
+    "name": "Weather Progressive Web App",
+    "short_name": "weather",
+    "description": "Progressive Web App that gives the temperature of the day.",
+    "icons": [
+      {
+        "src": "images/weather.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "images/erreur.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "images/neige.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "images/nuage.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "images/pluit.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "images/soleil-nuage.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "images/soleil.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      }
+      
+    ],
+    "start_url": "http://localhost/www/Weather_app/",
+    "display": "fullscreen",
+    "theme_color": "#06283D",
+    "background_color": "#06283D"
+  }
